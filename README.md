@@ -230,12 +230,12 @@ Example: 00:1A:2B:3C:4D:5E.
 Switch: Connects devices within a LAN using MAC addresses.
 Router: Connects networks, forwards data using IP addresses.
 Routing Protocols: Define how routers communicate (e.g., OSPF, BGP).
-## 4.Run the following command in my **keypair** to change permission
+## 4.Run the following command in my **keypair** to change permission file 
 bash 
 ```
 chmod 400 mykey.pem
 ```
-then Open SSH Port (22) in Security Group
+then aws management console then security groups Open SSH Port (22) in Security Group
 In the AWS Management Console:
 Go to the EC2 Dashboard.
 Select your instance.

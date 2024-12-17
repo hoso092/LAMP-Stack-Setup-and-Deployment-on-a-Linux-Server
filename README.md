@@ -218,7 +218,7 @@ should show the webpage
 ## 1. IP Address
 A unique identifier for devices in a network.
 Purpose: Allows communication between devices (like a postal address).
-Example: 54.83.106.68 (your EC2 public IP).
+Example: 54.83.106.68 (my EC2 public IP).
 ## 2. MAC Address
 A hardware-encoded address unique to a device's NIC.
 Purpose: Identifies devices on a local network.

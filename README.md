@@ -206,8 +206,8 @@ To associate the Elastic IP with a domain name (`myapacheserver.online`), I foll
 Once the DNS changes propagated (which may take a few minutes),
 I tested the configuration by opening a web browser and navigating to: 
 http://myapacheserver.online/
-if not work try this IP may Hostinger DNS didn't work yet as mentioned that takes 48 hrs max:
-Elastic IP **54.83.106.68**
+if not work try this IP may Hostinger DNS (Paid Sevice as aws Route 53 Paied) didn't work yet as mentioned that takes 48 hrs max:
+Elastic IP `54.83.106.68`.
 should show the webpage 
 
 

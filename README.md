@@ -230,8 +230,7 @@ Example: 00:1A:2B:3C:4D:5E.
 Switch: Connects devices within a LAN using MAC addresses.
 Router: Connects networks, forwards data using IP addresses.
 Routing Protocols: Define how routers communicate (e.g., OSPF, BGP).
-## 4.
-Run the following command in my **keypair** to change permission
+## 4.Run the following command in my **keypair** to change permission
 bash 
 ```
 chmod 400 mykey.pem
@@ -252,5 +251,5 @@ bash
 ```
 ssh -i "mykey.pem" ubuntu@54.83.106.68
 ```
-my repo link :** https://github.com/hoso092/ATW**
+my repo link :**https://github.com/hoso092/ATW**
 

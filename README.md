@@ -251,5 +251,5 @@ bash
 ```
 ssh -i "mykey.pem" ubuntu@54.83.106.68
 ```
-my repo link :**[https://github.com/hoso092/ATW](https://github.com/hoso092/LAMP-Stack-Setup-and-Deployment-on-a-Linux-Server/tree/main)**
+my repo link :**https://github.com/hoso092/LAMP-Stack-Setup-and-Deployment-on-a-Linux-Server/tree/main**
 
